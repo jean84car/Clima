@@ -1,3 +1,3 @@
 ##Aplicación del clima Nodejs
 
-Ejecutar npm install para la lobrerias.
+Ejecutar npm install para la lobrerias.git 
